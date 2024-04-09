@@ -10,7 +10,6 @@ A Python-based network scanner application for scanning IP addresses, MAC addres
 - [Demo](#demo)
 - [How to Use](#how-to-use)
 - [Contributing](#contributing)
--
 
 ## Introduction
 

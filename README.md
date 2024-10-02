@@ -41,7 +41,7 @@ This project implements a network scanner using Python, Tkinter, and Scapy. It a
 2. Launch the application:
 
     ```bash
-    python scannerinferface2.py
+    python scannerinferface.py
     ```
 
 2. Enter the IP range to scan and click "Network Scan" to discover devices on the network.
